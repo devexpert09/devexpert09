@@ -2,11 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devexpert09&label=Profile%20views&color=0e75b6&style=flat" alt="devexpert09" /> </p>
 
-- 🌱 I’m currently learning **Senior web(Python/Django, React)developer**
-
-- 💬 Ask me about **Senior web(Python/Django, React)developer**
-
-- 📫 How to reach me **ivancart03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
